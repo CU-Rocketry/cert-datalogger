@@ -13,6 +13,7 @@ Eggtimer Ion replica using ESP32-C3
 
 Screenshots for now:
 
+![3d pcb](screenshots/3d.png)
 ![schematic](screenshots/schematic.png)
 ![pcb](screenshots/pcb.png)
-![3d pcb](screenshots/3d.png)
+
